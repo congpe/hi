@@ -1,5 +1,7 @@
 # primitive loop for array
 a = ["apple","banana","orange","cherry"]
+
+pr = 546
 n = 0
 print "while method for array: "
 while n<a.length
